@@ -1,3 +1,0 @@
-america	2000000
-canada	5000000
-canada	2566234
